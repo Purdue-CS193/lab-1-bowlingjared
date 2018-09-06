@@ -1,4 +1,14 @@
-## Welcome to Purdue GitHub Pages
+#Welcome to Jared Bowling's first CS193 Lab
+##My favorite things about CS193
+-The TA's are cool
+-It is only 1 credit hour a week
+-They taught me how to make a website on github
+
+
+
+
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
